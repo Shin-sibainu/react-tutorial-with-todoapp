@@ -1,0 +1,57 @@
+1. node -v
+
+2. npx create-react-app
+
+3. package.json npm start explain
+
+4. public/html
+
+5. src/index.js and App explain
+
+6. App hotreloading and delete all
+
+7. <TodoList /> add
+
+8. plugin for react-redux~~~
+
+9. below add input tag, but error occured
+
+10. button added
+
+11. useState explain(state mangement, rerender component tree)
+
+12. initialTodo set.
+
+13. props to TaskList.
+
+14. how to get props
+
+15. jsx explain(you can write js code)
+
+16. <Todo /> created
+
+17. map function and display inside.
+
+18. child key error 
+
+19. change state inside value
+
+20. input checkbox added to todo component
+
+21. button handleAddTodo
+
+22. handleAddTodo function and useRef use
+
+23. added a new todo with spread syntax
+
+24. uuid install
+
+(
+25. localStorage set using useEffect
+
+26. localStorage get using useEffect
+)
+
+27. toggle function added.
+
+28. props toggletodo
